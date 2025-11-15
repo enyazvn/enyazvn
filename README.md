@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
+
+## My name is Enya and I'm a 4th year Business + CS major at SFU.
+
+## Fun fact about me, I'm certified to type 138WPM on TypeRacer. 
 
 <!--
 **enyazvn/enyazvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
