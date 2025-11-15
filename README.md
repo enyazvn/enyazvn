@@ -1,8 +1,11 @@
 ## Hi there! 👋
 
-My name is Enya and I'm a 4th year Business + CS major at SFU.
+My name is Enya, and I'm a 4th year Business + CS major at SFU. 
 
-Fun fact about me, I'm certified to type 138WPM on TypeRacer. 
+- ⚡ Fun fact about me, I'm certified to type 138WPM on TypeRacer. 
+- 😄 Pronouns: she/her
+- 💬 Ask me about my favourite songs!
+- 📫 How to reach me: by email enyaazeng@gmail.com or Instagram @enya.zeng
 
 <!--
 **enyazvn/enyazvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
